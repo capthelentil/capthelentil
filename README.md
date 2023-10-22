@@ -1,5 +1,5 @@
 # 💫 About Me / Hakkımda:
-🌱 I’m currently learning Html5<br>💬 Ask me about nothing<br>⚡ Fun fact you are stinky<br>📫 How to reach me: talhasirkecipt@gmail.com
+🌱 I’m currently learning Html5<br>💬 Ask me about nothing<br>⚡ You are stinky<br>📫 How to reach me: talhasirkecipt@gmail.com
 
 
 ## 🌐 Socials / Sosyal Medya:
