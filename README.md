@@ -1,5 +1,5 @@
 # 💫 About Me / Hakkimda:
-🌱 I’m currently learning Html5<br>💭 My native is Turkish, I also know a bit of English.<br>💬 Ask me about nothing<br>⚡ You are stinky<br>📫 How to reach me: talhasirkecipt@gmail.com
+🌱 I’m currently learning Html5<br>📖 Currently working on a python repository<br>💭 My native is Turkish, I also know a bit of English.<br>💬 Ask me about nothing<br>⚡ You are stinky<br>📫 How to reach me: talhasirkecipt@gmail.com
 
 
 ## 🌐 Socials / Sosyal Medya
