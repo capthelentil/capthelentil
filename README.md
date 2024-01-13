@@ -1,5 +1,5 @@
 # 💫 About Me / Hakkimda:
-🌱 I’m currently learning HTML5 & CSS3 & JAVASCRIPT<br>📖 Planning to create repositories with various scenarios.<br>💭 My native is Turkish, however I also know a bit of English and Russian. <br>📫 How to reach me: talhasirkecipt@gmail.com
+🌱 I’m currently learning HTML5 & CSS3 & JAVASCRIPT<br>📖 Planning to create repositories with various scenarios.<br>💭 My native is Turkish, however I also know a bit of English, Russian and German. <br>📫 How to reach me: talhasirkecipt@gmail.com
 
 
 ## 🌐 Socials / Sosyal Medya:
