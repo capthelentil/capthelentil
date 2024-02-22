@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Basic Cryptography<br>📖 <br>💭 My native is Turkish, however I also know a bit of English, Russian and German.<br>📫 For business inquiries: talhasirkecipt@gmail.com
+🌱 I’m currently learning Basic Cryptography<br>💭 My native is Turkish, however I also know a bit of English, Russian and German.<br>📫 For business inquiries: talhasirkecipt@gmail.com
 
 
 ## 🌐 Socials:
